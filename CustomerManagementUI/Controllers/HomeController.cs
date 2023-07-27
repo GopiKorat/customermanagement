@@ -15,11 +15,7 @@ namespace CustomerManagementUI.Controllers
 
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
+            ViewBag.Name = "Manprit";
             return View();
         }
 
