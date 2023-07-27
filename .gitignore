@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CustomerManagementUI/.vs/CustomerManagementUI
+/CustomerManagementUI/bin/Debug/net6.0
+/CustomerManagementUI/obj
+/CustomerManagementUI/.vs/ProjectEvaluation
